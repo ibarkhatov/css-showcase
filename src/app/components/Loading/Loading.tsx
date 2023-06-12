@@ -1,5 +1,4 @@
 import styles from "./loading.module.css";
-import { Property } from "csstype";
 
 const Loading = () => {
   const NUMBER_OF_DOTS = 20;
